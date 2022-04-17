@@ -1,1 +1,1 @@
-Code for "Online semi-supervised learning for network intrusion applications: A meta-learning approach" project
+Code for "Online semi-supervised learning for network intrusion applications: A meta-learning approach" project (CSI 6900)
